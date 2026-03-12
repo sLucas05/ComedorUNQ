@@ -8,7 +8,7 @@ Destaca de este proyecto el desarrollo completo aplicando la metodología **TDD 
 ### Setup
 
 1.	Descargar e instalar [CuisUniversity](https://sites.google.com/view/cuis-university/descargas?authuser=0)
-2.	Realizar un file-in de “comedor.st” en una imagen limpia.
+2.	Realizar un file-in de **“comedor.st”** en una imagen limpia.
 
 
 ### Previsualizacion

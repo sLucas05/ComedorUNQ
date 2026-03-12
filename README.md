@@ -1,4 +1,4 @@
 # ComedorUNQ
 En redacción...
 
-![Comedor](https://github.com/user-attachments/assets/0f31fdfc-1dde-4182-85af-071ca8f3d27f)
+![Comedor](https://github.com/user-attachments/assets/a16b2263-337a-4283-bae8-0c009a453ef9)

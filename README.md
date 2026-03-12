@@ -11,4 +11,5 @@ Destaca de este proyecto el desarrollo completo aplicando la metodología **TDD 
 2.	Realizar un file-in de “comedor.st” en una imagen limpia.
 ```
 
+### Previsualizacion
 ![Comedor](https://github.com/user-attachments/assets/a16b2263-337a-4283-bae8-0c009a453ef9)
